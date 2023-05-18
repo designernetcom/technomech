@@ -3917,7 +3917,7 @@ footer.footer-white .btn {
 	z-index: 1;
 }
 .service-box .service-inner:after{
-	background: #086ad88a;
+	background: none;
 	position: absolute;
     bottom: 0;
     height: 30%;
